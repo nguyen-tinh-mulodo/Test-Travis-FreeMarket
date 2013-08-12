@@ -512,6 +512,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FreeMarket/FreeMarket-Prefix.pch";
 				INFOPLIST_FILE = "FreeMarket/FreeMarket-Info.plist";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -523,6 +524,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FreeMarket/FreeMarket-Prefix.pch";
 				INFOPLIST_FILE = "FreeMarket/FreeMarket-Info.plist";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -581,6 +583,7 @@
 				CEB9BAAF17B492D600289DA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CEB9BAB017B492D600289DA7 /* Build configuration list for PBXNativeTarget "FreeMarketTests" */ = {
 			isa = XCConfigurationList;
@@ -589,6 +592,7 @@
 				CEB9BAB217B492D600289DA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
